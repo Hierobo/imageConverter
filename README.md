@@ -10,10 +10,10 @@ PIL is not my own library! As of 03.10.2022 it is only used for the file convers
 # main.py
 starts the program
 
-#helper.py
+# helper.py
 a little helper file i used and use to test code snippets
 
-#merger.py
+# merger.py
 placeholder for upcoming image appending functionalities such as combining pdf files. splitting them or creating gifs
 
 
